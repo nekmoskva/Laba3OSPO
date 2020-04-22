@@ -18,18 +18,13 @@ cd Andreevich
 echo > 1.txt
 pause
 
-cd..
-cd..
-cd Nikita
-cd Andreevich
 del 1.txt
 cd..
 cd..
 del 13051999.txt
-cd..
 pause
 
-cd Moskvin
+
 cd Nikita
 rd Andreevich
 cd ..
