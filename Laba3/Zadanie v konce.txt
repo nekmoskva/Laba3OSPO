@@ -18,10 +18,10 @@ cd Andreevich
 echo > 1.txt
 pause
 
-del 1.txt
 cd..
 cd..
-del 13051999.txt
+cd..
+del firstcat /S /Q /F
 pause
 
 
